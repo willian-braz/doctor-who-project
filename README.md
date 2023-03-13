@@ -8,7 +8,9 @@ A Doctor Who themed page with an image carousel.
 
 ## Objective
 
-This project was developed with the goal of creating a page with a function to change the background images
+This project was developed with the goal of creating a page with a function to change the background images.
+
+[Click here to go to the page](https://willian-braz.github.io/doctor-who-project/)
 
 ## Used technologies
 
